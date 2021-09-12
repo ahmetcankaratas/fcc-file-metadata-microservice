@@ -1,6 +1,12 @@
 
 # API Project: File Metadata Microservice for freeCodeCamp
 
+### Overview
+
+This project was created for APIs and Microservices" certification on freeCodeCamp.
+
+LIVE LINK: https://fcc--file-metadata--microservice.glitch.me/
+
 ###    User stories:
 1. I can submit a form that includes a file upload.
 2. The form file input field  has the "name" attribute set to "upfile". We rely on this in testing.
